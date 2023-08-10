@@ -1,0 +1,31 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Bulls and Cows/*
+!/Bulls and Cows/task/
+/Bulls and Cows/task/*
+!/Bulls and Cows/task/src
+
+# Project exclude paths
+/Topics/Integer types and operations/Desks/out/
+/Topics/Integer types and operations/Desks/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/String/Check burgs/out/
+/Topics/String/Check burgs/out/production/classes/
+/Topics/String/Comparing strings ignoring whitespaces/out/
+/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
+/Topics/StringBuilder/Create an email/out/
+/Topics/StringBuilder/Create an email/out/production/classes/
